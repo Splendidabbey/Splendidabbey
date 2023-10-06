@@ -70,7 +70,7 @@ Here are some of the projects I've worked on:
 
 
 ## 📫 Find Me
-- Website: [My Portfolio](https://splendidabbeypackage.wixsite.com/dorcassamuel)
+- Website: [My Portfolio](https://splendidabbey.github.io/my-portfolio/)
 - Email: splendidabbey@gmail.com
 - WhatsApp: +2348144713099
 
