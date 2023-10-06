@@ -57,7 +57,7 @@
 
 Here are some of the projects I've worked on:
 
-- [Ecommerce Website](https://github.com/Appleeyes/E-Commerce-Project): A full-fledged e-commerce website showcasing a product or service built using HTML, CSS and JS.
+- [Laragigs](https://github.com/Splendidabbey/Lara_gigs): A full-fledged e-commerce website showcasing a product or service built using HTML, CSS and JS.
 - [Landing Page](https://github.com/Appleeyes/Fylo-Page): A responsive landing page built using HTML and CSS .
 - [Blog Site](https://github.com/Appleeyes/Event-site): A blogging platform developed within an event site built using HTML, CSS, JS and PHP and MYSQL as database management.
 - [Students Management App 1](https://github.com/Appleeyes/Students-Record-Management-Application): An application to manage student records and classrooms built using HTML, CSS and PHP and MYSQL as database management.
@@ -66,19 +66,19 @@ Here are some of the projects I've worked on:
 
 ## My Activity Graph 
 
-[![Apple's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Appleeyes)](https://github.com/appleeyes/github-readme-activity-graph)
+[![Apple's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=splendidabbey)](https://github.com/splendidabbey/github-readme-activity-graph)
 
 ## My Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Appleeyes)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=splendidabbey)
 
 
 
 ## 📫 Find Me
-- Website: [My Portfolio](https://appleeyespackage.wixsite.com/dorcassamuel)
-- Email: samueldorcaseshowokeoghene@gmail.com
-- WhatsApp: +2349024981028
+- Website: [My Portfolio](https://splendidabbeypackage.wixsite.com/dorcassamuel)
+- Email: splendidabbey@gmail.com
+- WhatsApp: +2348144713099
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/Apple_dTechGirl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@apple_dtechgirl" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/appleeyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apple eyes" height="30" width="40" /></a>
+<a href="https://twitter.com/splendidabbey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@splendidabbey" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Abiodun_olorunda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apple eyes" height="30" width="40" /></a>
 </p>
