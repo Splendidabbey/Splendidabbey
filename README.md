@@ -45,13 +45,13 @@
 
 ## My Stats
 
-[![Apple's GitHub stats](https://github-readme-stats.vercel.app/api?username=splendidabbey)](https://github.com/splendidabbey/github-readme-stats)
+[![splendidabbey's GitHub stats](https://github-readme-stats.vercel.app/api?username=splendidabbey)](https://github.com/splendidabbey/github-readme-stats)
 
 
 
 ## My Trophies
 
-[![Apple's trophy](https://github-profile-trophy.vercel.app/?username=splendidabbey)](https://github.com/splendidabbey/github-profile-trophy)
+[![splendidabbey's trophy](https://github-profile-trophy.vercel.app/?username=splendidabbey)](https://github.com/splendidabbey/github-profile-trophy)
 
 ## My Projects
 
@@ -62,7 +62,7 @@ Here are some of the projects I've worked on:
 
 ## My Activity Graph 
 
-[![Apple's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=splendidabbey)](https://github.com/splendidabbey/github-readme-activity-graph)
+[![splendidabbey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=splendidabbey)](https://github.com/splendidabbey/github-readme-activity-graph)
 
 ## My Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=splendidabbey)
@@ -76,5 +76,5 @@ Here are some of the projects I've worked on:
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/splendidabbey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@splendidabbey" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abiodun-olorunda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apple eyes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abiodun-olorunda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="splendidabbey eyes" height="30" width="40" /></a>
 </p>
