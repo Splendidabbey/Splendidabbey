@@ -57,12 +57,8 @@
 
 Here are some of the projects I've worked on:
 
-- [Laragigs](https://github.com/Splendidabbey/Lara_gigs): A full-fledged e-commerce website showcasing a product or service built using HTML, CSS and JS.
-- [Landing Page](https://github.com/Appleeyes/Fylo-Page): A responsive landing page built using HTML and CSS .
-- [Blog Site](https://github.com/Appleeyes/Event-site): A blogging platform developed within an event site built using HTML, CSS, JS and PHP and MYSQL as database management.
-- [Students Management App 1](https://github.com/Appleeyes/Students-Record-Management-Application): An application to manage student records and classrooms built using HTML, CSS and PHP and MYSQL as database management.
-- [Students Management App 2](https://github.com/Appleeyes/Jagaad): An application to manage student records built using HTML, CSS and PHP and this use filesystem as database management.
-- [Restaurant Booking App](https://github.com/Appleeyes/Booking-App): An application for booking tables at a restaurant built using HTML, CSS, JS and PHP and MYSQL as database management.
+- [Laragigs](https://github.com/Splendidabbey/Lara_gigs): The project "Lara Gigs" is a Laravel-based platform designed for seamless gig uploading. It empowers users to effortlessly share and showcase their talents or services by uploading and managing gigs.
+- [Capital Bridge](https://github.com/Splendidabbey/capital-bridge): "Capital Bridge" is an engaging Vue.js web application game that challenges your geographical knowledge. Put your world capitals expertise to the test as you answer questions about the capitals of various countries.
 
 ## My Activity Graph 
 
