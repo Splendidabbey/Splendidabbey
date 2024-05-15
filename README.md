@@ -1,4 +1,4 @@
-# 👋 Hi, You can call me splendidabbey.
+# 👋 Hi, You can call me Allen P.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&width=435&lines=My+fullname+is+Abiodun+Olorunda.;I+am+from+Nigeria.;I+LOVE+TECH!!!.)](https://git.io/typing-svg)
 
@@ -22,7 +22,7 @@
     - SQL
 
 
-<!-- ![](https://komarev.com/ghpvc/?username=splendidabbey) -->
+<!-- ![](https://komarev.com/ghpvc/?username=Allen P) -->
 
 ## Languages and Tools:</h3>
 ### Skills
@@ -37,7 +37,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img style="margin-right: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img style="margin-right: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
 
-![Your Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=splendidabbey&layout=compact)
+![Your Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Allen P&layout=compact)
 
 #
 
@@ -45,36 +45,36 @@
 
 ## My Stats
 
-[![splendidabbey's GitHub stats](https://github-readme-stats.vercel.app/api?username=splendidabbey)](https://github.com/splendidabbey/github-readme-stats)
+[![Allen P's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allen P)](https://github.com/Allen P/github-readme-stats)
 
 
 
 ## My Trophies
 
-[![splendidabbey's trophy](https://github-profile-trophy.vercel.app/?username=splendidabbey)](https://github.com/splendidabbey/github-profile-trophy)
+[![Allen P's trophy](https://github-profile-trophy.vercel.app/?username=Allen P)](https://github.com/Allen P/github-profile-trophy)
 
 ## My Projects
 
 Here are some of the projects I've worked on:
 
-- [Laragigs](https://github.com/Splendidabbey/Lara_gigs): The project "Lara Gigs" is a Laravel-based platform designed for seamless gig uploading. It empowers users to effortlessly share and showcase their talents or services by uploading and managing gigs.
-- [Capital Bridge](https://github.com/Splendidabbey/capital-bridge): "Capital Bridge" is an engaging Vue.js web application game that challenges your geographical knowledge. Put your world capitals expertise to the test as you answer questions about the capitals of various countries.
+- [Laragigs](https://github.com/Allen P/Lara_gigs): The project "Lara Gigs" is a Laravel-based platform designed for seamless gig uploading. It empowers users to effortlessly share and showcase their talents or services by uploading and managing gigs.
+- [Capital Bridge](https://github.com/Allen P/capital-bridge): "Capital Bridge" is an engaging Vue.js web application game that challenges your geographical knowledge. Put your world capitals expertise to the test as you answer questions about the capitals of various countries.
 
 ## My Activity Graph 
 
-[![splendidabbey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=splendidabbey)](https://github.com/splendidabbey/github-readme-activity-graph)
+[![Allen P's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Allen P)](https://github.com/Allen P/github-readme-activity-graph)
 
 ## My Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=splendidabbey)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Allen P)
 
 
 
 ## 📫 Find Me
-- Website: [My Portfolio](https://splendidabbey.github.io/my-portfolio/)
-- Email: splendidabbey@gmail.com
+- Website: [My Portfolio](https://Allen P.github.io/my-portfolio/)
+- Email: Allen P@gmail.com
 - WhatsApp: +2348144713099
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/splendidabbey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@splendidabbey" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abiodun-olorunda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="splendidabbey eyes" height="30" width="40" /></a>
+<a href="https://twitter.com/Allen P" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Allen P" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abiodun-olorunda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Allen P eyes" height="30" width="40" /></a>
 </p>
