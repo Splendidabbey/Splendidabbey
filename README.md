@@ -1,4 +1,4 @@
-# 👋 Hi, You can call me Allen P.
+# 👋 Hi, You can call me Splendidabbey
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&width=435&lines=My+fullname+is+Abiodun+Olorunda.;I+am+from+Nigeria.;I+LOVE+TECH!!!.)](https://git.io/typing-svg)
 
@@ -70,7 +70,7 @@ Here are some of the projects I've worked on:
 
 
 ## 📫 Find Me
-- Website: [My Portfolio](https://Allen P.github.io/my-portfolio/)
+- Website: [My Portfolio](https://Splendidabbeygithub.io/my-portfolio/)
 - Email: Allen P@gmail.com
 - WhatsApp: +2348144713099
 
